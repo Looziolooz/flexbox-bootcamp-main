@@ -1,0 +1,20 @@
+nav {
+  max-width: 800px;
+  background-color: #eee;
+  height: 3rem;
+  display: flex;
+}
+
+nav a{
+  padding: 25px 35px;
+  text-decoration: none;
+  color: #666;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a:nth-of-type(1){
+  background-color: #666;
+  color:#ccc;
+}
